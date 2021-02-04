@@ -11,7 +11,6 @@
   1- Download it as zip file by clicking the button that says (code) up this page then choose (download ZIP).
   2- Clone the repository using CLR (Command Line Interface) of your choice as follows:
   - Navigate to the location where you want the app files to be using CLR.
-  - Copy https://github.com/Fundamental-courses/Business-project-yaserand past it into the CLR then hit Enter 
  - You can then use any text editor of your choice to view the code. VScode.
 # Technologies used
 Programming languages:

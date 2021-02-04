@@ -13,7 +13,15 @@
   - Navigate to the location where you want the app files to be using CLR.
   - Copy https://github.com/Fundamental-courses/Business-project-yaserand past it into the CLR then hit Enter 
  - You can then use any text editor of your choice to view the code. VScode.
-
+# Technologies used
+Programming languages:
+- HTML
+- CSS
+- Bootstrap
+# Integrated Development Environment:
+- Visual Studio Code
+- Code Versioning Tool:
+- Git using Github
 
 
 
